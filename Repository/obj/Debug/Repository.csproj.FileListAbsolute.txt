@@ -1,0 +1,11 @@
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\bin\Debug\Repository.dll
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\bin\Debug\Repository.pdb
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\bin\Debug\DataAccess.dll
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\bin\Debug\EntityFramework.dll
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\bin\Debug\DataAccess.pdb
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\bin\Debug\EntityFramework.xml
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\obj\Debug\Repository.dll
+C:\Users\MonstorQQ\documents\visual studio 2015\Projects\ContactManager\Repository\obj\Debug\Repository.pdb
