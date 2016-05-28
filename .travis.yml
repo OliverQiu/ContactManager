@@ -1,1 +1,5 @@
-ContactManager
+language: csharp  
+script:  
+- xbuild /p:Configuration=Debug ContactManager.sln  /p:TargetFrameworkVersion="v4.5"  
+before_script:  
+  - nuget restore ContactManager.sln  
